@@ -1,0 +1,6 @@
+lvgl/
+lv_drivers/
+demo
+*.o
+.vscode/
+freetype-2.9.1/
